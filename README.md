@@ -1,10 +1,11 @@
 # ConCal
 ConCal project of SE-21 IIT.
+<img src="https://github.com/Team-Data-Pirates-SE-21/ConCal/blob/main/app/src/main/res/drawable/appicon.png" width="300" align="right"/>
 
 <h4>Members</h4>
 <ol>
 <li>Chamoda De Silva</li>
-<li>Janith Chanaka</li>
+<li>Janith Abhayarathna</li>
 <li>Nethmini Weerakon</li>
 <li> Hasini Perera</li>
 <li>Nathan Fernando</li>
@@ -55,5 +56,31 @@ ratio for the first floor of a store building, it will not be strengthened enoug
 factor, if the constructor uses the same ratio for a house that is not using more weighted items in
 their building, it can be more costly.
 
-<h2>Technologies<h2>
+<h3>Aim</h3>
 
+The main aim of this application is to provide the users with their desired output which is the 
+compressive strength of the concrete by using the added inputs. So many other calculations too 
+can be done by this app. to name a few bricks calculator, flooring calculator, steel weight 
+calculator and staircase calculator. Not only that, but this application will also help those who 
+are interested in the civil engineering field regardless of the region or the gender of the user. 
+By using this application users can save their time and increase their work efficiency.
+
+<h2>Data Requirements</h2>
+
+The project is based on machine learning; thus, the team needs some data in datasets to predict 
+the strength of the concrete.<br>
+Data set - https://www.kaggle.com/prathamtripathi/regression-with-neural-networking
+<br>
+Among the few available datasets, the team chose, this data set as it is for regression and neural 
+networking. It contains a lot of data such as cement, water, fly ash and age by day etc. (8 raw 
+materials).
+
+<h2>Technologies</h2>
+
+<ul>
+<li>Python</li>
+<li>Java</li>
+<li>Heroku</li>
+</ul>
+
+<img src="https://github.com/Team-Data-Pirates-SE-21/ConCal/blob/main/main_page.png" width="300"/>
